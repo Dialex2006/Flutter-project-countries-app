@@ -102,7 +102,7 @@ class _CountryScreenState extends State<CountryScreen> {
         )),
         home: Scaffold(
             appBar: AppBar(
-              title: Text("Distance screen", style: TextStyle(fontSize: 30)),
+              title: Text("Country", style: TextStyle(fontSize: 30)),
               elevation: 0,
               leading: IconButton(
                 icon: Icon(Icons.arrow_back_ios),
